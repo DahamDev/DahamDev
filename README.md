@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daham Navinda @DahamDev
-- 👀 I’m interested in Full Stack Software development and devops technologies 
-- 🌱 I’m currently learning Spring boot 
+- 👀 I’m interested in Full Stack Software development , block chain technologies 
+- My Stack: Java, Springboot, React, Solidity
 - 📫 How to reach me dev.daham@gmail.com 
 
 <!---
