@@ -3,10 +3,6 @@
 
 - 📫 How to reach me **navindabc@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
 <p align="left">
   Highly skilled software engineer with three years of experience and a
 proven track record of designing and delivering scalable, distributed
