@@ -4,13 +4,15 @@
 - 📫 How to reach me **navindabc@gmail.com**
 
 <p align="left">
-  Highly skilled software engineer with three years of experience and a
+  Highly skilled Engineer with three years of experience and a
 proven track record of designing and delivering scalable, distributed
 applications. Proficient in DevOps methodologies and tools, with
 extensive experience in continuous integration and deployment
 (CI/CD), and automation. Collaborative team player with excellent
 communication skills, passionate about staying up to date with
 emerging technologies.
+
+Currently helping working as a cloud engineer@AWS. Helping organizations deploying their containerized workload in cloud. 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
