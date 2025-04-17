@@ -12,7 +12,7 @@ extensive experience in continuous integration and deployment
 communication skills, passionate about staying up to date with
 emerging technologies.
 
-Currently helping working as a cloud engineer@AWS. Helping organizations deploying their containerized workload in cloud. 
+Currently working as a cloud engineer@AWS. Helping organizations deploying their containerized workload in cloud. 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
