@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daham Navinda</h1>
-<h3 align="center">A passionate full stack developer from Sri Lanka</h3>
+<h3 align="center">A passionate full stack developer based in New Zealand </h3>
 
 - 📫 How to reach me **navindabc@gmail.com**
 
